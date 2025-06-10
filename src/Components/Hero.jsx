@@ -20,8 +20,8 @@ const Hero = ({ textData, playing, setPlaying, image, setImage }) => {
                     <li onClick={() => setImage(1)} className={image === 1 ? 'hero-dot orange' : 'hero-dot'}></li>
                     <li onClick={() => setImage(2)} className={image === 2 ? 'hero-dot orange' : 'hero-dot'}></li>
                 </ul>
-                <div className="hero-play">
-                    <img src={playing ? pausebtn : playbtn} onClick={() => setPlaying(!playing)} alt="" />
+                <div className="hero-play" onClick={() => setPlaying(!playing)}>
+                    <img src={playing ? pausebtn : playbtn} alt="" />
                     <p>Watch Video</p>
                 </div>
             </div>
