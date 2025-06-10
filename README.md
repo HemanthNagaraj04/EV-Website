@@ -1,6 +1,6 @@
 # ⚡ EV Showcase Website
 
-A modern and responsive electric vehicle (EV) website built using **React.js**. This project showcases a sleek UI with a hero section, auto image slider after every 3 seconds, and elements to engage users. ###(Additinal features are yet to added, this is the initial web design with some working features)
+A modern and responsive electric vehicle (EV) website built using **React.js**. This project showcases a sleek UI with a hero section, auto image slider after every 3 seconds, and elements to engage users. **(Additinal features are yet to be added, this is the initial web design with some working features)**
 
 ## 🚀 Features
 
@@ -14,7 +14,7 @@ A modern and responsive electric vehicle (EV) website built using **React.js**. 
 
 ![Website Preview](./public/home.png)
 
-##Website Link:
+## Website Link:
 https://hemanthnagaraj04.github.io/EV-Website/
 
 ## 📦 Tech Stack
