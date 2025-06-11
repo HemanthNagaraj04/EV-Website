@@ -24,3 +24,9 @@
 .fade-in {
     animation: fadeIN 500ms ease-in-out;
 }
+
+@media (max-width:764px) {
+    .background {
+        object-position: 45%;
+    }
+}

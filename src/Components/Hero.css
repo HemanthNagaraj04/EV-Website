@@ -59,3 +59,53 @@
     color: white;
     cursor: pointer;
 }
+
+@media (max-width: 768px) {
+    .hero {
+        margin: 0px 30px;
+        position: relative;
+    }
+
+    .hero-text {
+        font-size: 50px;
+        line-height: 55px;
+        margin-top: 100px;
+    }
+
+    .hero-explore {
+        width: 195px;
+        height: 40px;
+        gap: 7px;
+    }
+
+    .hero-explore p {
+        font-size: 15px;
+        white-space: nowrap;
+    }
+
+    .hero-explore img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .hero-dots {
+        position: absolute;
+        top: 70vh;
+
+    }
+
+    .hero-play {
+        position: absolute;
+        top: 67vh;
+        left: 28vh;
+    }
+
+    .hero-play img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .hero-play p {
+        font-size: 15px;
+    }
+}
