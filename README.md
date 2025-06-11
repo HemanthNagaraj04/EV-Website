@@ -2,6 +2,13 @@
 
 A modern and responsive electric vehicle (EV) website built using **React.js**. This project showcases a sleek UI with a hero section, auto image slider after every 3 seconds, and elements to engage users. **(Additinal features are yet to be added, this is the initial web design with some working features)**
 
+## 🖼️ Preview
+
+![Website Preview](./public/home.png)
+
+## Website Link:
+https://hemanthnagaraj04.github.io/EV-Website/
+
 ## 🚀 Features
 
 - Responsive homepage layout
@@ -9,13 +16,6 @@ A modern and responsive electric vehicle (EV) website built using **React.js**. 
 - Image slider with dot navigation
 - Functional Video play button
 - Clean, professional design using modern CSS
-
-## 🖼️ Preview
-
-![Website Preview](./public/home.png)
-
-## Website Link:
-https://hemanthnagaraj04.github.io/EV-Website/
 
 ## 📦 Tech Stack
 
